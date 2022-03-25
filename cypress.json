@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://www.leomadeiras.com.br/",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "chromeWebSecurity": false,
+    "video": false,
+    "watchForFileChanges": false,
+    "defautlCommandTimeout":2100000,
+    "experimentalSessionSupport": true
+    
+}
