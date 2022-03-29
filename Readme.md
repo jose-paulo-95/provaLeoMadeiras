@@ -27,7 +27,7 @@
 
 ...
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
+ 
 
 ## Como rodar a aplicação :arrow_forward:
 
